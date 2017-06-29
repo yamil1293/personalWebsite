@@ -3,7 +3,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-	https://yamilburgos.github.io/ProtoWebsite/
+	https://yamilburgos.github.io/ProtoWebsite
 
 ![](demo.png)
 
